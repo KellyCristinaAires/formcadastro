@@ -1,0 +1,29 @@
+body{
+    font-size: 20px;
+}
+
+h1{
+text-align: center;
+
+
+}
+
+form{
+    
+   display: block; 
+   margin-top: 0;
+   color: rgb(12, 58, 56);
+   width: 6g00px;
+   box-sizing: border-box;
+
+
+}
+button[type="submit"] {
+
+    border: 2px solid rgba(0, 128, 115, 0.461)  ;
+}
+button[type="reset"] {
+
+    border:2px solid rgba(0, 128, 115, 0.461)  ;
+}
+}
